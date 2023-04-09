@@ -15,7 +15,7 @@ I couldnt find a consruction job for rsg-core so i converted this one considerin
 # Config:
 - Add locations
 - Set pay per drop and max drop count before task is completed
-- Set qbr-lock options
+- Set rsg-lock options
 - Set progressbar time
 - Includes Debug setting
 
