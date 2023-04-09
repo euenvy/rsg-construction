@@ -44,6 +44,17 @@ Go to rsg-target > config.lua and att this code at line 53
         },
         distance = 2.5,
     },
+    
+    - for the npc and to freeze the npc also add this to your rsg-npcs > config.lua
+    
+    {   -- blackwater ped 
+        model = `A_M_M_ValFarmer_01`,
+        coords = vector4(-859.3046, -1279.768, 43.559097, 6.9919261),
+    },
+    {   -- appleseed ped
+        model = `A_M_M_ValFarmer_01`,
+        coords = vector4(-1400.749, -206.007, 102.90012, 209.08316),
+    }, 
 
 # Dependencies:
 - rsg-core : https://github.com/Rexshack-RedM/rsg-core
