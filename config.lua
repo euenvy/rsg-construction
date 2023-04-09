@@ -20,8 +20,8 @@ Config.Time = 12 -- How long each circle is
 
 -- NPC LOCATIONS --
 Config.JobNpc = {
-	[1] = { ["Model"] = "A_M_M_ValFarmer_01", ["Pos"] = vector3(-859.2, -1279.73, 43.56), ["Heading"] = 350.34, ["Name"] = "Blackwater" }, -- Blackwater
-	[2] = { ["Model"] = "A_M_M_ValFarmer_01", ["Pos"] = vector3(-1400.77, -206.05, 102.9), ["Heading"] = 200.27, ["Name"] = "Appleseed" }, -- Apple Seed Timber Company
+    [1] = { ["Pos"] = vector3(-859.2, -1279.73, 43.56), ["Heading"] = 350.34, ["Name"] = "Blackwater" }, -- Blackwater
+    [2] = { ["Pos"] = vector3(-1400.77, -206.05, 102.9), ["Heading"] = 200.27, ["Name"] = "Appleseed" }, -- Apple Seed
 }
 
 -- LOCATION OF JOB SITES --
