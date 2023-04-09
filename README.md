@@ -1,7 +1,7 @@
 Original Creator : https://github.com/xThrasherrr/xt-construction/
 
 # rsg-construction
-I couldnt find a consruction job for rsg-core so i converted this one considdering nobody did it yet and it was really simple!
+I couldnt find a consruction job for rsg-core so i converted this one considering nobody did it yet and it was really simple!
 
 - Converted to rsg-core
 - Added Target!
